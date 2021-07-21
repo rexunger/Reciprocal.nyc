@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: "Interstate";
+    src: url('Interstate-Bold.ttf');
+    src: url('Interstate-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Interstate";
+    src: url('Interstate-Regular.ttf');
+    src: url('Interstate-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
