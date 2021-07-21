@@ -230,7 +230,7 @@ h4 {
 								&.expand {
 									opacity: 1;
 									padding-top: .6em;
-									height: 3.5em;
+									height: 5.2em;
 									transition: $transition-2s;
 
 									@media (max-width: $sm-max) {
@@ -255,7 +255,7 @@ h4 {
 								display: inline-block;
 								color: $lightblue;
 
-								
+
 								@media (min-width: $md-min) {
 									&:hover {
 										color: white;
@@ -318,7 +318,7 @@ h4 {
 
 							@media (min-width: $md-min) {
 								&:hover {
-									
+
 									svg {
 										fill: white;
 									}
