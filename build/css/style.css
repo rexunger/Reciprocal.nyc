@@ -142,11 +142,11 @@ h4 {
               .container .row .col .tile ul.accordion li .answer.expand {
                 opacity: 1;
                 padding-top: .6em;
-                height: 5.2em;
+                height: 6em;
                 transition: all 0.2s ease; }
                 @media (max-width: 659px) {
                   .container .row .col .tile ul.accordion li .answer.expand {
-                    height: 6.4em; } }
+                    height: 7.6em; } }
         .container .row .col .tile.animation {
           padding-top: 0;
           padding-bottom: 0;
